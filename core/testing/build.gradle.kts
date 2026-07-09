@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "net.minheur.arrows.core.testing"
+    namespace = "com.batodev.arrows.core.testing"
 }
 
 dependencies {

@@ -3,5 +3,5 @@ plugins {
 }
 
 android {
-    namespace = "net.minheur.arrows.core.resources"
+    namespace = "com.batodev.arrows.core.resources"
 }

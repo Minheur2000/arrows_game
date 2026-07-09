@@ -2,7 +2,7 @@ plugins {
     `kotlin-dsl`
 }
 
-group = "net.minheur.arrows.buildlogic"
+group = "com.batodev.arrows.buildlogic"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11

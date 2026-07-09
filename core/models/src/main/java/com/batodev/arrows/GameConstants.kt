@@ -194,7 +194,7 @@ object GameConstants {
     // ====================
     // EXTERNAL LINKS
     // ====================
-    const val GITHUB_REPO_URL = "https://github.com/Minheur2000/arrows_game"
+    const val GITHUB_REPO_URL = "https://github.com/robmat/arrows_game"
 
     // ====================
     // INPUT HANDLING
